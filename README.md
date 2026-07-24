@@ -4,7 +4,7 @@
 
 ### Python Developer | Data Analyst | AWS Cloud Enthusiast
 
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1d-9097-02d9f7df0a3b.gif" width="700"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;Data+Analyst;AWS+Cloud+Enthusiast;Building+Projects+%F0%9F%9A%80;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br><br>
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="shettyshreejith66@gmail.com">
+<a href="mailto:shettyshreejith66@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -35,5 +35,4 @@
 - 📊 Interested in Data Analytics and creating interactive Power BI dashboards
 - ☁️ Exploring AWS Cloud and cloud technologies
 - 🌐 Learning Full Stack Development
-- 💡 I enjoy solving real-world problems through technology
 - 🚀 Always curious, always learning
